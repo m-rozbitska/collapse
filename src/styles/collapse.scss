@@ -1,0 +1,44 @@
+.collapse {
+	max-width: 640px;
+	width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: $bdCollapse;
+	border-radius: 8px;
+	flex-direction: column;
+	align-items: center;
+	overflow: hidden;
+}
+.collapse__title {
+	display: flex;
+	justify-content: space-between;
+	padding: 13px 16px;
+}
+
+.collapse__title-text {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.collapse__content {
+	padding: 16px;
+	background: $headerBg;
+}
+
+.collapse__content-text {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.collapse__arrow {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.collapse__arrow-text {
+	font-size: 12px;
+	line-height: 18px;
+}
+
+
