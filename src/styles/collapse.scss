@@ -20,25 +20,29 @@
 	line-height: 22px;
 }
 
-.collapse__content {
-	padding: 16px;
-	background: $headerBg;
-}
-
-.collapse__content-text {
-	font-size: 14px;
-	line-height: 22px;
-}
-
 .collapse__arrow {
 	display: flex;
 	align-items: center;
 	gap: 4px;
+	cursor: pointer;
 }
 
 .collapse__arrow-text {
 	font-size: 12px;
 	line-height: 18px;
+}
+
+.collapse__content {
+	background: $headerBg;
+	max-height: 0;
+	overflow: hidden;
+	
+}
+
+.collapse__content-text {
+	padding: 16px;
+	font-size: 14px;
+	line-height: 22px;
 }
 
 

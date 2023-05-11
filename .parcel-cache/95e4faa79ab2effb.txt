@@ -1,20 +1,20 @@
 2338
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\AL.js133278436271479268 0
 62C:\Users\Mariia\collapse\node_modules\abortcontroller-polyfill133278436268929289 1
-29C:\Users\Mariia\collapse\dist133281264445409371 1
+29C:\Users\Mariia\collapse\dist133282861780521043 1
 59C:\Users\Mariia\collapse\node_modules\.bin\browserslist.cmd133278436441474515 0
 47C:\Users\Mariia\collapse\node_modules\is-number133278436245442783 1
 70C:\Users\Mariia\collapse\node_modules\@parcel\core\lib\public\Asset.js133278436273089249 0
-49C:\Users\Mariia\collapse\src\styles\collapse.scss133281264440306956 0
+49C:\Users\Mariia\collapse\src\styles\collapse.scss133282859461049546 0
 66C:\Users\Mariia\collapse\node_modules\node-addon-api\noexcept.gypi133278436248004020 0
 61C:\Users\Mariia\collapse\node_modules\node-gyp-build\index.js133278436246132785 0
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\GI.js133278436366445912 0
 86C:\Users\Mariia\collapse\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133278436279209239 0
-37C:\Users\Mariia\collapse\src\index.js133278428682595270 0
+37C:\Users\Mariia\collapse\src\index.js133282861751569832 0
 56C:\Users\Mariia\collapse\node_modules\lmdb\src\windows.c133278436319001916 0
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\SE.js133278436414034428 0
 77C:\Users\Mariia\collapse\node_modules\ordered-binary\.idea\ordered-binary.iml133278436243472237 0
-35C:\Users\Mariia\collapse\index.html133281263949769959 0
+35C:\Users\Mariia\collapse\index.html133282823308500682 0
 52C:\Users\Mariia\collapse\node_modules\node-gyp-build133278436254324606 1
 85C:\Users\Mariia\collapse\node_modules\@parcel\core\test\fixtures\config-node-pipeline133278436251644595 1
 60C:\Users\Mariia\collapse\node_modules\immutable\package.json133278436265099102 0
@@ -51,7 +51,7 @@
 91C:\Users\Mariia\collapse\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133278436323471923 0
 73C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\http3.js133278436372782806 0
 78C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\webworkers.js133278436434138119 0
-50C:\Users\Mariia\collapse\dist\chewron.aa2f8482.svg133281263979849512 0
+50C:\Users\Mariia\collapse\dist\chewron.aa2f8482.svg133282860686488460 0
 42C:\Users\Mariia\collapse\package-lock.json133278436462135153 0
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\AU.js133278436291145959 0
 34C:\Users\Mariia\collapse\README.md133278407543358941 0
@@ -95,7 +95,7 @@
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\ZA.js133278436439312267 0
 77C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\mpeg-dash.js133278436397036712 0
 57C:\Users\Mariia\collapse\node_modules\semver\CHANGELOG.md133278436252744609 0
-47C:\Users\Mariia\collapse\dist\Logo.96fe08a9.svg133281263980089505 0
+47C:\Users\Mariia\collapse\dist\Logo.96fe08a9.svg133282860686488460 0
 48C:\Users\Mariia\collapse\node_modules\micromatch133278436245532757 1
 51C:\Users\Mariia\collapse\node_modules\dotenv-expand133278436250664644 1
 69C:\Users\Mariia\collapse\node_modules\sass\types\util\promise_or.d.ts133278436319131918 0
@@ -419,7 +419,7 @@
 60C:\Users\Mariia\collapse\node_modules\to-regex-range\LICENSE133278436242602240 0
 64C:\Users\Mariia\collapse\node_modules\picomatch\lib\picomatch.js133278436250644644 0
 88C:\Users\Mariia\collapse\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133278436280369230 0
-54C:\Users\Mariia\collapse\dist\collapse.3464ddca.js.map133281263986492344 0
+54C:\Users\Mariia\collapse\dist\collapse.3464ddca.js.map133282860690057411 0
 65C:\Users\Mariia\collapse\node_modules\@parcel\logger\package.json133278436250934625 0
 74C:\Users\Mariia\collapse\node_modules\caniuse-lite\dist\unpacker\agents.js133278436269689283 0
 65C:\Users\Mariia\collapse\node_modules\to-regex-range\package.json133278436236066984 0
@@ -1269,7 +1269,7 @@
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\CR.js133278436329013382 0
 68C:\Users\Mariia\collapse\node_modules\@parcel\watcher\src\Backend.cc133278436240872218 0
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\CU.js133278436350428219 0
-51C:\Users\Mariia\collapse\dist\index.579125c3.js.map133281263986492344 0
+51C:\Users\Mariia\collapse\dist\index.579125c3.js.map133282861780281039 0
 69C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\regions\CV.js133278436350878377 0
 81C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\queryselector.js133278436410690999 0
 70C:\Users\Mariia\collapse\node_modules\@parcel\core\src\ParcelConfig.js133278436326033382 0
@@ -1741,7 +1741,7 @@
 73C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\mpeg4.js133278436397136719 0
 84C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\multibackgrounds.js133278436397872843 0
 79C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\multicolumn.js133278436398012857 0
-61C:\Users\Mariia\collapse\dist\PingFangSCRegular.ebfb95c6.woff133281263989528514 0
+61C:\Users\Mariia\collapse\dist\PingFangSCRegular.ebfb95c6.woff133282860699656266 0
 83C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\mutation-events.js133278436398092839 0
 84C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\mutationobserver.js133278436398193149 0
 64C:\Users\Mariia\collapse\node_modules\@parcel\graph\src\types.js133278436272129265 0
@@ -1801,7 +1801,7 @@
 88C:\Users\Mariia\collapse\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js133278436299451484 0
 81C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\server-timing.js133278436414294447 0
 82C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\serviceworkers.js133278436414424435 0
-47C:\Users\Mariia\collapse\dist\index.579125c3.js133281263980729489 0
+47C:\Users\Mariia\collapse\dist\index.579125c3.js133282861778450418 0
 80C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\setimmediate.js133278436414504440 0
 81C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\sharedworkers.js133278436414940842 0
 71C:\Users\Mariia\collapse\node_modules\caniuse-lite\data\features\sni.js133278436417680893 0
@@ -2187,7 +2187,7 @@
 108C:\Users\Mariia\collapse\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133278436267138728 0
 112C:\Users\Mariia\collapse\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules133278436268589249 0
 81C:\Users\Mariia\collapse\node_modules\@parcel\core\test\fixtures\config\subfolder133278436264959100 1
-62C:\Users\Mariia\collapse\dist\PingFangSCRegular.e56618a0.woff2133281263989128521 0
+62C:\Users\Mariia\collapse\dist\PingFangSCRegular.e56618a0.woff2133282860697908423 0
 92C:\Users\Mariia\collapse\node_modules\@parcel\core\test\fixtures\common-targets\package.json133278436341303360 0
 68C:\Users\Mariia\collapse\node_modules\@parcel\core\src\AssetGraph.js133278436277519277 0
 68C:\Users\Mariia\collapse\node_modules\@parcel\core\src\buildCache.js133278436285372307 0
@@ -2332,8 +2332,8 @@
 65C:\Users\Mariia\collapse\node_modules\.bin\update-browserslist-db133278436441564495 0
 69C:\Users\Mariia\collapse\node_modules\.bin\update-browserslist-db.cmd133278436441564495 0
 69C:\Users\Mariia\collapse\node_modules\.bin\update-browserslist-db.ps1133278436441564495 0
-50C:\Users\Mariia\collapse\dist\collapse.3464ddca.js133281263980729489 0
-48C:\Users\Mariia\collapse\dist\index.867122b9.css133281264445329395 0
-52C:\Users\Mariia\collapse\dist\index.867122b9.css.map133281264445409371 0
+50C:\Users\Mariia\collapse\dist\collapse.3464ddca.js133282860689657428 0
+48C:\Users\Mariia\collapse\dist\index.867122b9.css133282860689657428 0
+52C:\Users\Mariia\collapse\dist\index.867122b9.css.map133282860690057411 0
 60C:\Users\Mariia\collapse\dist\index.867122b9.css.map.2660.9a133281259466196867 0
-40C:\Users\Mariia\collapse\dist\index.html133281263980649536 0
+40C:\Users\Mariia\collapse\dist\index.html133282860689657428 0

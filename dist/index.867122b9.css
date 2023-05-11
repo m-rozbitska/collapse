@@ -134,17 +134,8 @@ body {
   line-height: 22px;
 }
 
-.collapse__content {
-  background: #0d0d0d;
-  padding: 16px;
-}
-
-.collapse__content-text {
-  font-size: 14px;
-  line-height: 22px;
-}
-
 .collapse__arrow {
+  cursor: pointer;
   align-items: center;
   gap: 4px;
   display: flex;
@@ -153,6 +144,18 @@ body {
 .collapse__arrow-text {
   font-size: 12px;
   line-height: 18px;
+}
+
+.collapse__content {
+  max-height: 0;
+  background: #0d0d0d;
+  overflow: hidden;
+}
+
+.collapse__content-text {
+  padding: 16px;
+  font-size: 14px;
+  line-height: 22px;
 }
 
 /*# sourceMappingURL=index.867122b9.css.map */
